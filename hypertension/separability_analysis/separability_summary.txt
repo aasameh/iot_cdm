@@ -1,0 +1,24 @@
+======================================================================
+PPG SPECTROGRAM SEPARABILITY ANALYSIS SUMMARY
+======================================================================
+
+Total samples analyzed: 25840
+Spectrogram shape: (57, 8, 1)
+
+Class distribution:
+  negative: 23,823 (92.2%)
+  positive: 816 (3.2%)
+  hypertensive_event: 1,201 (4.6%)
+
+======================================================================
+METRICS:
+======================================================================
+KS Statistic: 0.1981
+Mean Absolute Difference: 0.0521
+PCA Separability Ratio: 0.4189
+PCA Variance Explained: 28.47%
+
+Separability Score: 1.5/3
+
+VERDICT: GOOD
+

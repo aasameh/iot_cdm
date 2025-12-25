@@ -1,0 +1,19 @@
+======================================================================
+EVALUATION RESULTS
+======================================================================
+
+Train: 1468 | Val: 490 | Test: 490
+Model params: 118,531
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.77      0.78      0.77       163
+    positive       0.68      0.75      0.72       163
+hypertensive       0.71      0.62      0.66       164
+
+    accuracy                           0.72       490
+   macro avg       0.72      0.72      0.72       490
+weighted avg       0.72      0.72      0.71       490
+
+AUROC (macro): 0.8627
