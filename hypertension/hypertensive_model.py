@@ -249,7 +249,7 @@ def compare_models(X, y, epochs=100, batch_size=64):
 
 if __name__ == "__main__":
     X, y = load_data('balanced_dataset.npz')
-    results = compare_models(X, y, epochs=500, batch_size=64)
+    # results = compare_models(X, y, epochs=500, batch_size=64)
     print("\n" + "="*70)
     print("COMPLETE")
     print("="*70)
